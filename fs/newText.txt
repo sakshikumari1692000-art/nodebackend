@@ -1,0 +1,2 @@
+Hello my updated test file
+Hello my appended test file
