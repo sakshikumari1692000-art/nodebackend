@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend node",
+  "homepage": "https://github.com/sakshikumari1692000-art/nodebackend#readme",
+  "bugs": {
+    "url": "https://github.com/sakshikumari1692000-art/nodebackend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakshikumari1692000-art/nodebackend.git"
+  },
+  "license": "ISC",
+  "author": "sakshi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1",
+    "express": "^5.2.1"
+  }
+}
